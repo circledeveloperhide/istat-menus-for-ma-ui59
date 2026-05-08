@@ -1,4 +1,4 @@
-
+Get the ultimate iStat Menus for macOS plugin with custom Plugin for iStat Menus for macOS - snapshot-rollback and duplicate-finder. Featuring snapshot-rollback and
 
 
 
